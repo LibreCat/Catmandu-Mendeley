@@ -1,0 +1,5 @@
+Revision history for Catmandu-Mendeley
+
+{{$NEXT}}
+  - initial release with Importer::MendeleyCatalog
+
