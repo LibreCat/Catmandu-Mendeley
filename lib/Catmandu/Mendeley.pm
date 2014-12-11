@@ -20,10 +20,6 @@ our $VERSION = '0.01';
 
 Nicolas Steenlant, C<< <nicolas.steenlant at ugent.be> >>
 
-=back
-
-=over
-
 =head1 LICENSE AND COPYRIGHT
 
 This program is free software; you can redistribute it and/or modify it

@@ -10,6 +10,8 @@ Catmandu::Mendeley - Catmandu modules wrapping the Mendeley API
 
 Nicolas Steenlant, `<nicolas.steenlant at ugent.be>`
 
+
+
 # LICENSE AND COPYRIGHT
 
 This program is free software; you can redistribute it and/or modify it
@@ -25,3 +27,7 @@ Hey! **The above document had some coding errors, which are explained below:**
 - Around line 19:
 
     &#x3d;back without =over
+
+- Around line 23:
+
+    You forgot a '=back' before '=head1'
